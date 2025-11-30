@@ -218,26 +218,3 @@ Top Bigrams:
 battery life
 not worth
 sound quality
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

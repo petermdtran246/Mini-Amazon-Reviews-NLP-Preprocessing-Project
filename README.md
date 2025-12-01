@@ -1,4 +1,4 @@
-# 🛒 Mini Amazon Reviews — NLP Text Preprocessing Pipeline  
+# 🛒 Mini Amazon Reviews - NLP Text Preprocessing Pipeline  
 A complete end-to-end **NLP preprocessing project** built using **Python, Pandas, and NLTK**, based on a custom dataset of Amazon-style product reviews containing emojis, star ratings, punctuation noise, slang, and irregular formatting.
 
 This project showcases a full text-cleaning workflow similar to real-world NLP tasks such as sentiment analysis, keyword extraction, and model preparation.
